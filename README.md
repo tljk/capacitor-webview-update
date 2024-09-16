@@ -1,6 +1,6 @@
 # capacitor-webview-update
 
-capacitor webview update
+This is a capacitor wrapper for [JonaNorman/WebViewUpgrade](https://github.com/JonaNorman/WebViewUpgrade).
 
 ## Install
 
